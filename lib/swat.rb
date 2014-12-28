@@ -1,4 +1,6 @@
 module Swat
+  require 'swat_capybara'
+  require 'swat_tw'
 
   DEFAULT_OPTIONS = {
     capybara: {}
