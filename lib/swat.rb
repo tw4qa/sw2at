@@ -1,6 +1,7 @@
 module Swat
   require 'swat_capybara'
   require 'swat_tw'
+  require 'swat_ui'
   require 'swat/rspec_setup'
 
   DEFAULT_OPTIONS = {

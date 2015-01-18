@@ -10,6 +10,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency('swat-capybara', '~> 0.0.0')
   s.add_dependency('swat-tw', '~> 0.0.0')
+  s.add_dependency('swat-ui', '~> 0.0.0')
 
   s.homepage    = 'http://tw.coming.soon'
   s.license     = 'MIT'
