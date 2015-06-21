@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Vitaly Tarasenko"]
   s.date = "2015-06-21"
-  s.description = "TODO: longer description of your gem"
-  s.email = "vitaliyt@interlink-ua.com"
+  s.description = " Define your Test World strategies, use SW2AT UI for managing tests revisions. "
+  s.email = "vetal.tarasenko@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README.rdoc"
@@ -25,12 +25,14 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/sw2at.rb"
+    "lib/sw2at.rb",
+    "lib/swat/rspec_setup.rb",
+    "sw2at.gemspec"
   ]
-  s.homepage = "http://github.com/tarvit/sw2at"
+  s.homepage = "http://github.com/tw4qa/sw2at"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.2.2"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "SW2AT - Simple Way to Automate Tests."
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
