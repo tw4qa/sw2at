@@ -10,8 +10,11 @@
 
 ##It consists of set of gems:
 ##[sw2at-ui](https://github.com/tw4qa/sw2at-ui)
+Solves problems of managing your test revisions. Sharing testing results to customers and team members. Tracking your tests online.
 ##[sw2at-capybara](https://github.com/tw4qa/sw2at-capybara)
+Makes web-testing easier. Helps QA-engineers to create stable and maintainable web-tests. 
 ##[sw2at-tw](https://github.com/tw4qa/sw2at-tw)
+Adds a new term called "Test World" to your tests. It helps easily generate complex test situations in your rspec files.
 
 
 # Contributing to sw2at
