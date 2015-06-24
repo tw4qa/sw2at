@@ -2,7 +2,7 @@
 # Simple Way to Automate Tests
 
 ##Gem helps you in testing:
-* track your test revisions. 
+* track your test revisions
 * share test results with all team members and customers
 * improve stability of web-tests
 * create web-tests for external applications
