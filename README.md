@@ -1,17 +1,17 @@
 # sw2at
-## Simple Way to Automate Tests
+# Simple Way to Automate Tests
 
-Gem helps you in testing:
+##Gem helps you in testing:
 * track your test revisions. 
 * share test results with all team members and customers
 * improve stability of web-tests
 * create web-tests for external applications
 * generate complex test data
 
-It consists of set of gems
-* [sw2at-ui](https://github.com/tw4qa/sw2at-ui)
-* [sw2at-capybara](https://github.com/tw4qa/sw2at-capybara)
-* [sw2at-tw](https://github.com/tw4qa/sw2at-tw)
+##It consists of set of gems:
+##[sw2at-ui](https://github.com/tw4qa/sw2at-ui)
+##[sw2at-capybara](https://github.com/tw4qa/sw2at-capybara)
+##[sw2at-tw](https://github.com/tw4qa/sw2at-tw)
 
 
 # Contributing to sw2at
