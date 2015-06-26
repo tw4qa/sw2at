@@ -1,0 +1,34 @@
+# sw2at
+# Simple Way to Automate Tests
+
+##Gem helps you in testing:
+* track your test revisions
+* share test results with all team members and customers
+* improve stability of web-tests
+* create web-tests for external applications
+* generate complex test data
+
+##It consists of set of gems:
+##[sw2at-ui](https://github.com/tw4qa/sw2at-ui)
+Solves problems of managing your test revisions. Sharing testing results to customers and team members. Tracking your tests online.
+##[sw2at-capybara](https://github.com/tw4qa/sw2at-capybara)
+Makes web-testing easier. Helps QA-engineers to create stable and maintainable web-tests. 
+##[sw2at-tw](https://github.com/tw4qa/sw2at-tw)
+Adds a new term called "Test World" to your tests. It helps easily generate complex test situations in your rspec files.
+
+
+# Contributing to sw2at
+ 
+* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
+* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
+* Fork the project.
+* Start a feature/bugfix branch.
+* Commit and push until you are happy with your contribution.
+* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
+* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+# Copyright
+
+Copyright (c) 2015 Vitaly Tarasenko. See LICENSE.txt for
+further details.
+
