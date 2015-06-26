@@ -10,9 +10,11 @@ module Swat
   }
 
   def self.setup(rspec_config, opts = DEFAULT_OPTIONS)
+
     Swat::Capybara.setup rspec_config, (opts[:capybara] || {})
     Swat::TestWorld.setup rspec_config, (opts[:test_world] || {})
-    Swat::UI.setup rspec_config, (opts[:ui] || {})
+    Swat::UI.rspec_config = rspec_config
+
     rspec_config.extend RspecSetup
   end
 

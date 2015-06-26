@@ -1,8 +1,8 @@
 source "http://rubygems.org"
 
-gem 'sw2at-capybara', '~> 0.0.1'
-gem 'sw2at-tw', '~> 0.0.1'
-gem 'sw2at-ui', '~> 0.0.1'
+gem 'sw2at-capybara', '~> 0.0.3'
+gem 'sw2at-tw', '~> 0.0.4'
+gem 'sw2at-ui', '~> 0.0.6'
 
 group :development do
   gem "shoulda", ">= 0"

@@ -2,9 +2,10 @@ module Swat
   module RspecSetup
 
     def swat(opts = nil)
-      init_tw opts || {}
-      init_capybara
-      init_ui opts || {}
+      options = opts || {}
+      init_tw options
+      init_capybara options
+      init_ui options
     end
 
   end
